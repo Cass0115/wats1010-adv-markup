@@ -1,1 +1,27 @@
-/* Styles for the Advanced Markup assignment. */
+body{
+  background-color:#e6eeff;
+  font-family:Arial, "sans-serif";
+}
+header{
+  text-align:center;
+  padding-bottom:2rem;
+}
+aside{
+  float:right; 
+  border: 3px solid black;
+  width:35%;
+  margin:20px;
+  padding:10px;
+}
+ul{
+  list-style:none;
+}
+section{
+  
+}
+.poem{
+  line-height:1.8;
+}
+a.active{
+  font-weight:bold;
+}
